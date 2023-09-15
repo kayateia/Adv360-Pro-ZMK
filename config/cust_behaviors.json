@@ -1,2 +1,50 @@
 [
+	{
+		"code": "&hm COMMAND G",
+		"name": "&hm COMMAND G",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&hm LSHIFT V",
+		"name": "&hm LSHIFT V",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&hm LALT Z",
+		"name": "&hm LALT Z",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&hm LEFT_COMMAND G",
+		"name": "&hm LEFT_COMMAND G",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&hm RIGHT_COMMAND H",
+		"name": "&hm RIGHT_COMMAND H",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	},
+	{
+		"code": "&hm RSHIFT M",
+		"name": "&hm RSHIFT M",
+		"params": [
+			"code"
+		],
+		"type": "UD"
+	}
 ]
