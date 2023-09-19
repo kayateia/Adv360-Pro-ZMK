@@ -10,21 +10,21 @@ label = "macro_joy";
 #binding-cells = <0>;
 bindings = <&kp COLON>, <&kp J>, <&kp O>, <&kp Y>, <&kp MINUS>;
 };
-macro_macro_dodgy: macro_macro_dodgy{
+macro_dodgy: macro_dodgy{
 compatible = "zmk,behavior-macro";
-label = "macro_macro_dodgy";
+label = "macro_dodgy";
 #binding-cells = <0>;
 bindings = <&kp GREATER_THAN>, <&kp UNDERSCORE>, <&kp GREATER_THAN>;
 };
-macro_macro_smiley: macro_macro_smiley{
+macro_smiley: macro_smiley{
 compatible = "zmk,behavior-macro";
-label = "macro_macro_smiley";
+label = "macro_smiley";
 #binding-cells = <0>;
 bindings = <&kp COLON>, <&kp RIGHT_PARENTHESIS>;
 };
-macro_macro_arrow: macro_macro_arrow{
+macro_arrow: macro_arrow{
 compatible = "zmk,behavior-macro";
-label = "macro_macro_arrow";
+label = "macro_arrow";
 #binding-cells = <0>;
 bindings = <&kp EQUAL>, <&kp GREATER_THAN>, <&kp SPACE>;
 };

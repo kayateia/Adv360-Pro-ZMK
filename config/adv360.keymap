@@ -49,11 +49,11 @@
 
         layer_numbers {
             bindings = <
- &kp EQUAL           &kp N1       &kp N2     &kp N3      &kp N4       &kp N5              &trans                                                                 &mo 3  &macro_macro_smiley  &macro_macro_dodgy     &macro_joy                &trans                 &trans     &trans
+ &kp EQUAL           &kp N1       &kp N2     &kp N3      &kp N4       &kp N5              &trans                                                                 &mo 3  &macro_smiley  &macro_dodgy     &macro_joy                &trans                 &trans     &trans
    &kp TAB            &kp Q        &kp W      &kp E       &kp R        &kp T               &none                                                                 &none                &kp Y           &kp KP_N7      &kp KP_N8             &kp KP_N9          &kp BACKSLASH   &kp PIPE
    &kp ESC           &kp N1       &kp N2     &kp N3      &kp N4       &kp N5               &none  &kp LCTRL  &kp LALT                   &kp LGUI  &kp RCTRL      &none               &kp N6              &kp N7         &kp N8                &kp N9                 &kp N0    &kp SQT
  &kp LSHFT  &kp EXCLAMATION  &kp AT_SIGN  &kp POUND  &kp DOLLAR  &kp PERCENT                                 &kp HOME                  &kp PG_UP                                  &kp CARET       &kp AMPERSAND       &kp STAR  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp RSHFT
-     &mo 2        &kp GRAVE     &kp CAPS   &kp LEFT   &kp RIGHT                         &kp BSPC    &kp DEL   &kp END                  &kp PG_DN  &kp ENTER  &kp KP_N0                            &macro_parens  &macro_braces    &macro_macro_arrow        &macro_brackets      &mo 2
+     &mo 2        &kp GRAVE     &kp CAPS   &kp LEFT   &kp RIGHT                         &kp BSPC    &kp DEL   &kp END                  &kp PG_DN  &kp ENTER  &kp KP_N0                            &macro_parens  &macro_braces    &macro_arrow        &macro_brackets      &mo 2
             >;
         };
 
