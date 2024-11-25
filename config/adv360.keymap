@@ -88,7 +88,7 @@
             >;
         };
 
-        layer_gaming {
+        layer_Gaming {
             bindings = <
  &trans  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5            &trans                                                  &trans  &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8  &trans  &trans  &trans
  &trans        &trans        &trans        &trans        &trans        &trans            &trans                                                  &trans        &trans        &trans        &trans  &trans  &trans  &trans
