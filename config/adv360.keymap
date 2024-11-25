@@ -92,8 +92,8 @@
             bindings = <
  &trans  &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp NUMBER_4  &kp NUMBER_5            &trans                                                  &trans  &kp NUMBER_6  &kp NUMBER_7  &kp NUMBER_8  &trans  &trans  &trans
  &trans        &trans        &trans        &trans        &trans        &trans            &trans                                                  &trans        &trans        &trans        &trans  &trans  &trans  &trans
- &trans        &trans        &trans        &trans        &trans         &kp G            &trans  &trans  &trans                  &trans  &trans  &trans        &trans        &trans        &trans  &trans  &trans  &trans
- &trans         &kp Z        &trans        &trans         &kp V        &trans                            &trans                  &trans                        &trans        &trans        &trans  &trans  &trans  &trans
+ &trans        &trans        &trans        &trans        &trans         &kp G            &trans  &trans  &trans                  &trans  &trans  &trans         &kp H        &trans        &trans  &trans  &trans  &trans
+ &trans         &kp Z        &trans        &trans         &kp V        &trans                            &trans                  &trans                        &trans         &kp M        &trans  &trans  &trans  &trans
  &trans        &trans        &trans        &trans        &trans                          &trans  &trans  &trans                  &trans  &trans  &trans                      &trans        &trans  &trans  &trans   &to 0
             >;
         };
